@@ -41,6 +41,12 @@ Instead, I wish to implement the basic features. Such as:
     - Replace
         - `r` to replace singular characters
 
+# References
+These are some useful resources that I found online that have influenced the development of this plugin! Thanks to everyone
+who provided this information for me to use!
+
+- https://github.com/joshnajera/godot-vim/blob/main/addons/godot-vim/godot-vim.gd
+
 # Final Remarks
 Please feel free to **give it a go and let me know what you think.** This is just a personal project, but I would love 
 to know if it made your development in Godot Engine just a *little* bit easier (or harder, in which case I'll see what I can do!).
