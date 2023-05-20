@@ -46,6 +46,7 @@ These are some useful resources that I found online that have influenced the dev
 who provided this information for me to use!
 
 - https://github.com/joshnajera/godot-vim/blob/main/addons/godot-vim/godot-vim.gd
+- https://github.com/vim/vim
 
 # Final Remarks
 Please feel free to **give it a go and let me know what you think.** This is just a personal project, but I would love 
