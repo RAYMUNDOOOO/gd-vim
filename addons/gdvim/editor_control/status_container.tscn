@@ -1,0 +1,30 @@
+[gd_scene format=3 uid="uid://dc85v6jvidjo3"]
+
+[node name="StatusContainer" type="HBoxContainer"]
+anchors_preset = -1
+anchor_right = 0.168
+anchor_bottom = 0.04
+offset_right = -153.536
+offset_bottom = -2.92
+
+[node name="StatusContainer" type="BoxContainer" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Status" type="Label" parent="StatusContainer"]
+layout_mode = 2
+text = "NORMAL"
+
+[node name="FileInformationContainer" type="HBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="FilePath" type="Label" parent="FileInformationContainer"]
+layout_mode = 2
+size_flags_vertical = 1
+text = "path/to/dir"
+horizontal_alignment = 2
+
+[node name="ReadWriteStatus" type="Label" parent="FileInformationContainer"]
+layout_mode = 2
+text = "[ + ]"
+horizontal_alignment = 2
